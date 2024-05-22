@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/laptop-jrad.jpg";
 
-const imageAltText = "blue banner with words in diferent colors that say 'Julio Arana Jr. Cloud Systems Developer'";
+const imageAltText = "laptop with code on screen";
 
 const Home = ({ name, title }) => {
   return (
