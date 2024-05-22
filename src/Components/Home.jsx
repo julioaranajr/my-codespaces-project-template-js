@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/jrad-baner.jpeg";
+import image from "../images/laptop-jrad.jpg";
 
 const imageAltText = "blue banner with words in diferent colors that say 'Julio Arana Jr. Cloud Systems Developer'";
 
