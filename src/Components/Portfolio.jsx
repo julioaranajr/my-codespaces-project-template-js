@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/profile-photo-jrad.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "profile photo of Julio Arana Jr.";
 
 /**
  * Project list
@@ -31,22 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My Github Profile README 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My introductory profile README that highlights my skills, projects, and social media links.",
+    url: "https://github.com/julioaranajr",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Installing.NET on Linux",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "How to install .NET on various Linux distributions either manually, via a package manager, or via a container.",
+    url: "https://github.com/julioaranajr/Installing.NET-on-Linux",
   },
   {
-    title: "My Resume Site",
+    title: "My Personal WebSite",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "My personal website that highlights my skills, projects, and social media links. About me, Services, and Contact sections.",
+    url: "https://julioaranajr.com/",
   },
   {
     title: "GitHub Codespaces and github.dev",
